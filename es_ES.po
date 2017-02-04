@@ -1,0 +1,1803 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fable 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-04 00:53+0300\n"
+"PO-Revision-Date: \n"
+"Language-Team: Ann\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Esta entrada está protegida por contraseña. Inserte la contraseña para ver "
+"los comentarios"
+
+#: ../comments.php:13
+msgid "0 Comments"
+msgstr "0 Comentarios"
+
+#: ../comments.php:13 ../functions.php:196
+msgid "1 Comment"
+msgstr "Un Comentario"
+
+#: ../comments.php:13
+msgid "Comments"
+msgstr "Comentarios"
+
+#: ../comments.php:22 ../comments.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Comentarios antiguos"
+
+#: ../comments.php:23 ../comments.php:36
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Comentarios mas recientes <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:42
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#: ../comments.php:60
+msgid "Submit Comment"
+msgstr "Enviar Comentario"
+
+#: ../comments.php:60
+msgid "Submit a Comment"
+msgstr "Enviar un Comentario"
+
+#: ../comments.php:60
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Responder a %s"
+
+#: ../content-gallery.php:19 ../content-quote.php:36 ../content-video.php:56
+#: ../content.php:21
+msgid "Read More"
+msgstr "Seguir Leyendo"
+
+#: ../footer.php:3
+#, php-format
+msgid "Designed by %1$s | Powered by %2$s"
+msgstr "Diseñado por %1$s | Con la tecnología %2$s"
+
+#: ../functions.php:30
+msgid "Primary Menu"
+msgstr "Menú Principal"
+
+#: ../functions.php:52 ../functions.php:58 ../functions.php:213
+#: ../page-blog.php:48
+msgid "on"
+msgstr "en"
+
+#: ../functions.php:110 ../functions.php:130
+msgid "Navigation Menu"
+msgstr "Menú de navegación"
+
+#: ../functions.php:175
+#, php-format
+msgid "Posts by %s"
+msgstr "Entradas por %s"
+
+#: ../functions.php:192
+msgid "% Comments"
+msgstr "%s Comentarios"
+
+#: ../functions.php:194
+msgid "No Comments"
+msgstr "Sin Comentarios"
+
+#: ../functions.php:209
+msgid "By"
+msgstr "Por"
+
+#: ../functions.php:216 ../page-blog.php:48
+msgid "in"
+msgstr "en"
+
+#: ../functions.php:226 ../functions.php:227
+msgid "ET Settings"
+msgstr "Opciones"
+
+#: ../functions.php:235
+msgid "Dark"
+msgstr "Oscuro"
+
+#: ../functions.php:236
+msgid "Light"
+msgstr "Claro"
+
+#: ../functions.php:254
+msgid "Video URL"
+msgstr "URL del Vídeo"
+
+#: ../functions.php:260
+msgid "Quote Source"
+msgstr "Orígen de la mención"
+
+#: ../functions.php:266
+msgid "Quote Source Link"
+msgstr "URL del orígen de la mención"
+
+#: ../functions.php:272
+msgid "Note: The following settings apply to all post formats, except Gallery."
+msgstr ""
+"Nota: Las siguientes opciones se aplican a todos los formatos excepto al de "
+"Galería"
+
+#: ../functions.php:274
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: ../functions.php:275
+msgid "Hex Value"
+msgstr "Valor Hexadecimal"
+
+#: ../functions.php:277
+msgid "Here you can set a solid color background for the post."
+msgstr "Aquí puedes establecer un color de fondo para la entrada"
+
+#: ../functions.php:280
+msgid "Post Layout"
+msgstr "Formato de la Entrada"
+
+#: ../functions.php:294
+msgid "Use Background Color instead of the Featured Image."
+msgstr "Usa el color de fondo en vez de la imágen destacada"
+
+#: ../functions.php:379
+msgid "Fonts"
+msgstr "Fuentes"
+
+#: ../functions.php:384
+msgid "Schemes"
+msgstr "Esquemas"
+
+#: ../functions.php:386
+msgid ""
+"Note: Color settings set above should be applied to the Default color scheme."
+msgstr ""
+"Nota: Los ajustes de color establecidos anteriormente debe aplicarse al "
+"esquema de color predeterminado"
+
+#: ../functions.php:397
+msgid "Link Color"
+msgstr "Color de los enlaces"
+
+#: ../functions.php:410
+msgid "Main Font Color"
+msgstr "Color del texto principal"
+
+#: ../functions.php:423
+msgid "Header Background Color"
+msgstr "Color de fondo de la cabecera"
+
+#: ../functions.php:436
+msgid "Menu Links Color"
+msgstr "Color de los enlaces del Menú"
+
+#: ../functions.php:449
+msgid "Active Menu Link Color"
+msgstr "Color del enlace activo del Menú"
+
+#: ../functions.php:461
+msgid "Header Font"
+msgstr "Fuente de la cabecera"
+
+#: ../functions.php:475
+msgid "Body Font"
+msgstr "Color del texto principal"
+
+#: ../functions.php:490
+msgid "Color Schemes"
+msgstr "Esquemas de colores"
+
+#: ../functions.php:495
+msgid "Default"
+msgstr "Por defecto"
+
+#: ../functions.php:496
+msgid "Blue"
+msgstr "Azul"
+
+#: ../functions.php:497
+msgid "Green"
+msgstr "Verde"
+
+#: ../functions.php:498
+msgid "Purple"
+msgstr "Morado"
+
+#: ../functions.php:499
+msgid "Red"
+msgstr "Rojo"
+
+#: ../functions.php:500
+msgid "Gray"
+msgstr "Gris"
+
+#: ../functions.php:629 ../page-blog.php:48
+msgid "0 comments"
+msgstr "0 comentarios"
+
+#: ../functions.php:629 ../page-blog.php:48
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: ../functions.php:629 ../page-blog.php:48
+msgid "comments"
+msgstr "comentarios"
+
+#: ../header.php:60
+msgid "Home"
+msgstr "Inicio"
+
+#: ../header.php:77
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: ../header.php:78
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../header.php:79
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../image.php:56
+msgid "&larr; Previous"
+msgstr "&larr; Anterior"
+
+#: ../image.php:57
+msgid "Next &rarr;"
+msgstr "Siguiente &rarr;"
+
+#: ../image.php:62 ../page-blog.php:31 ../page-contact.php:79
+#: ../page-gallery.php:26 ../page-login.php:23
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: ../page-blog.php:48
+msgid "Posted"
+msgstr "Publicado"
+
+#: ../page-blog.php:48
+msgid "by"
+msgstr "por"
+
+#: ../page-blog.php:68
+msgid "read more"
+msgstr "Seguir Leyendo"
+
+#: ../page-contact.php:19
+msgid "Make sure you entered the captcha. "
+msgstr "Asegúrate de que has introducido el captcha"
+
+#: ../page-contact.php:22
+msgid "Numbers regenerated."
+msgstr "Numeros regenerados"
+
+#: ../page-contact.php:23
+msgid "You entered the wrong number in captcha. "
+msgstr "Has introducido un número incorrecto en el captcha"
+
+#: ../page-contact.php:32
+msgid "Make sure you fill all fields. "
+msgstr "Asegúrate de rellenar todos los campos"
+
+#: ../page-contact.php:37
+msgid "Invalid Email. "
+msgstr "Correo Electrónico no válido"
+
+#: ../page-contact.php:65
+msgid "Thanks for contacting us"
+msgstr "Gracias por contactar con nosotros"
+
+#: ../page-contact.php:90 ../page-contact.php:91
+msgid "Name"
+msgstr "Nombre"
+
+#: ../page-contact.php:95 ../page-contact.php:96
+msgid "Email Address"
+msgstr "Correo Electrónico"
+
+#: ../page-contact.php:100 ../page-contact.php:101
+msgid "Subject"
+msgstr "Asunto"
+
+#: ../page-contact.php:108
+msgid "Captcha: "
+msgstr "Captcha: "
+
+#: ../page-contact.php:119 ../page-contact.php:120
+msgid "Message"
+msgstr "Mensaje"
+
+#: ../page-contact.php:125
+msgid "Reset"
+msgstr "Resetear"
+
+#: ../page-contact.php:126
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../page-gallery.php:52
+msgid "Zoom in"
+msgstr "Enfocar"
+
+#: ../page-gallery.php:53
+msgid "Read more"
+msgstr "Seguir Leyendo"
+
+#: ../page-login.php:33
+msgid "Username"
+msgstr "Usuario"
+
+#: ../page-login.php:34
+msgid "Password"
+msgstr "Contraseña"
+
+#: ../page-search.php:29
+msgid "search this website"
+msgstr "Buscar en esta web"
+
+#: ../page-search.php:32
+msgid "search this site..."
+msgstr "Buscar en este sitio..."
+
+#: ../page-search.php:34
+msgid "Posts"
+msgstr "Entradas"
+
+#: ../page-search.php:35 ../page-sitemap.php:29 ../epanel/options_fable.php:230
+msgid "Pages"
+msgstr "Páginas"
+
+#: ../page-search.php:38
+msgid "Select a month"
+msgstr "Selecciona un mes"
+
+#: ../page-sitemap.php:34 ../epanel/options_fable.php:235
+msgid "Categories"
+msgstr "Categorías"
+
+#: ../page-sitemap.php:39
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: ../page-sitemap.php:55
+msgid "Authors"
+msgstr "Autores"
+
+#: ../epanel/core_functions.php:26 ../epanel/core_functions.php:389
+msgid "Saving..."
+msgstr "Guardando..."
+
+#: ../epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr "Opciones guardadas."
+
+#: ../epanel/core_functions.php:73
+msgid "Options"
+msgstr "Opciones"
+
+#: ../epanel/core_functions.php:73
+msgid "Theme Options"
+msgstr "Opciones del Tema"
+
+#: ../epanel/core_functions.php:90
+msgid "settings saved."
+msgstr "Ajustes guardados."
+
+#: ../epanel/core_functions.php:93
+msgid "settings reset."
+msgstr "Ajustes reiniciados."
+
+#: ../epanel/core_functions.php:111 ../epanel/options_fable.php:240
+#: ../epanel/options_fable.php:391
+msgid "General Settings"
+msgstr "Ajustes Generales"
+
+#: ../epanel/core_functions.php:114
+msgid "Navigation"
+msgstr "Navegación"
+
+#: ../epanel/core_functions.php:117
+msgid "Layout Settings"
+msgstr "Ajustes de Diseño"
+
+#: ../epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr "Gestión de los Anuncios"
+
+#: ../epanel/core_functions.php:123
+msgid "Colorization"
+msgstr "Coloración"
+
+#: ../epanel/core_functions.php:126
+msgid "SEO"
+msgstr "SEO"
+
+#: ../epanel/core_functions.php:129
+msgid "Integration"
+msgstr "Integración"
+
+#: ../epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr "Documentos de Soporte"
+
+#: ../epanel/core_functions.php:204
+msgid "Upload Image"
+msgstr "Subir Imagen"
+
+#: ../epanel/core_functions.php:229
+msgid "You don't have pages"
+msgstr "No tienes páginas"
+
+#: ../epanel/core_functions.php:362
+msgid "Save changes"
+msgstr "Guardar Cambios"
+
+#: ../epanel/core_functions.php:373
+msgid ""
+"This will return all of the settings throughout the options page to their "
+"default values. <strong>Are you sure you want to do this?"
+msgstr ""
+"Esto devolverá las opciones de la página de opciones a su valor "
+"predeterminado. <strong>Estás seguro de que quieres hacer esto?"
+
+#: ../epanel/custom_functions.php:840
+msgid "Image doesn't exist"
+msgstr "Imagen no existente"
+
+#: ../epanel/custom_functions.php:1029
+#, php-format
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+"<div class=\"updated\"><p>Esta es una nueva instalación del tema %1$s. No "
+"olvides visitar el <a href=\"%2$s\">Panel</a> para configurarlo. Este "
+"mensaje no volverá a aparecer cuando pulse el botón de Guardar en la <a href="
+"\"%2$s\">Página de opciones del tema</a>.</p></div>"
+
+#: ../epanel/custom_functions.php:1041
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">View version %3$s details</a>. <em>Auto-updates are not "
+"available for this theme. If this is an Elegant Themes theme, then you must "
+"re-download the theme from the member's area and <a href=\"http://www."
+"elegantthemes.com/members-area/documentation.html#update\" target=\"_blank"
+"\">re-install it</a> in order to update it to the latest version.</em>"
+msgstr ""
+"Hay una nueva versión de %1$s disponible. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">Ver mas información de la versión %3$s</a>. <em>Las "
+"actualizaciones automáticas de este tema no están disponibles. Si este es un "
+"tema de Elegant Themes, debes descargar nuevamente el tema desde el Área de "
+"miembros y <a href=\"http://www.elegantthemes.com/members-area/documentation."
+"html#update\" target=\"_blank\">reinstalarlo nuevamente</a> para actualizar "
+"y así conseguir la última versión.</em>"
+
+#: ../epanel/custom_functions.php:1045
+msgid ""
+"Auto-updates are not available for this theme. If this is an Elegant Themes "
+"theme, then you must re-download the theme from the member's area and <a "
+"href=\"http://www.elegantthemes.com/members-area/documentation.html#update\" "
+"target=\"_blank\">re-install it</a> in order to update it to the latest "
+"version."
+msgstr ""
+"Las actualizaciones automáticas no están disponibles para este tema. Si este "
+"es un tema de Elegant Themes, deberás descargartelo de nuevo desde el Área "
+"de miembros y <a href=\"http://www.elegantthemes.com/members-area/"
+"documentation.html#update\" target=\"_blank\">reinstalarlo</a> para "
+"actualizarlo y conseguir la última versión.</em>"
+
+#: ../epanel/options_fable.php:38
+msgid "General"
+msgstr "General"
+
+#: ../epanel/options_fable.php:42
+msgid "Homepage"
+msgstr "Inicio"
+
+#: ../epanel/options_fable.php:49
+msgid "Logo"
+msgstr "Logo"
+
+#: ../epanel/options_fable.php:53
+msgid ""
+"If you would like to use your own custom logo image click the Upload Image "
+"button."
+msgstr ""
+"Si quieres usar tu propio logotipo, haz click en el botón de Subir Imagen."
+
+#: ../epanel/options_fable.php:56
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../epanel/options_fable.php:60
+msgid ""
+"If you would like to use your own custom favicon image click the Upload "
+"Image button."
+msgstr ""
+"Si quieres usar tu propio Favicon, haz click en el botón de Subir Imagen."
+
+#: ../epanel/options_fable.php:63
+msgid "Grab the first post image"
+msgstr "Tomar la imagen de la primera entrada"
+
+#: ../epanel/options_fable.php:67
+msgid ""
+"By default thumbnail images are created using custom fields. However, if you "
+"would rather use the images that are already in your post for your thumbnail "
+"(and bypass using custom fields) you can activate this option. Once "
+"activcated thumbnail images will be generated automatically using the first "
+"image in your post. The image must be hosted on your own server."
+msgstr ""
+"Por defecto, las miniaturas son creadas mediante campos personalizados. Sin "
+"embargo, si prefiere utilizar las imágenes que ya están en su publicación "
+"para su miniatura (y omitir la utilización de campos personalizados) puede "
+"activar esta opción. Una vez que las imágenes en miniatura estén activadas "
+"se generarán automáticamente usando la primera imagen de tu publicación. La "
+"imagen debe estar alojada en su propio servidor."
+
+#: ../epanel/options_fable.php:70
+msgid "Show Twitter Icon"
+msgstr "Mostrar el icono de Twitter"
+
+#: ../epanel/options_fable.php:74
+msgid "Here you can choose to display your Twitter Icon. "
+msgstr "Aquí puedes elegir si mostrar el icono de Twitter"
+
+#: ../epanel/options_fable.php:79
+msgid "Show Google Plus Icon"
+msgstr "Mostrar el icono de Google Plus"
+
+#: ../epanel/options_fable.php:83
+msgid "Here you can choose to display your Google Plus Icon. "
+msgstr "Aquí puedes elegir si mostrar el icono de Google Plus"
+
+#: ../epanel/options_fable.php:86
+msgid "Show Facebook Icon"
+msgstr "Mostrar el icono de Facebook"
+
+#: ../epanel/options_fable.php:90
+msgid "Here you can choose to display your Facebook Icon. "
+msgstr "Aquí puedes elegir si mostrar el icono de Facebook"
+
+#: ../epanel/options_fable.php:95
+msgid "Twitter Profile Url"
+msgstr "URL de tu perfil de Twitter"
+
+#: ../epanel/options_fable.php:99
+msgid "Place your Twitter Profile URL here. "
+msgstr "Coloca aquí la URL de tu perfil de Twitter"
+
+#: ../epanel/options_fable.php:103
+msgid "Google Plus Url"
+msgstr "URL de tu perfil de Google Plus"
+
+#: ../epanel/options_fable.php:107
+msgid "Place your Google Plus URL here. "
+msgstr "Coloca aquí la URL de tu perfil de Google Plus"
+
+#: ../epanel/options_fable.php:111
+msgid "Facebook Profile Url"
+msgstr "URL de tu perfil de Facebook"
+
+#: ../epanel/options_fable.php:115
+msgid "Place your Facebook Profile URL here. "
+msgstr "Coloca aquí la URL de tu perfil de Facebook"
+
+#: ../epanel/options_fable.php:119
+msgid "Number of Posts displayed on Category page"
+msgstr "Nº de entradas mostradas en la página de Categorías"
+
+#: ../epanel/options_fable.php:123
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"Category page. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Aquí puedes indicar cuantas entradas quieres mostrar en la página de "
+"Categorías. Esta opción es independiente de las opciones de Lectura de "
+"Wordpress."
+
+#: ../epanel/options_fable.php:127
+msgid "Number of Posts displayed on Archive pages"
+msgstr "Nº de entradas mostradas en la página de Archivos"
+
+#: ../epanel/options_fable.php:131
+msgid ""
+"Here you can designate how many recent articles are displayed on the Archive "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Aquí puedes indicar cuantas entradas quieres mostrar en la página de "
+"Archivos. Esta opción es independiente de las opciones de Lectura de "
+"Wordpress."
+
+#: ../epanel/options_fable.php:135
+msgid "Number of Posts displayed on Search pages"
+msgstr "Nº de entradas mostradas en la página de Busqueda"
+
+#: ../epanel/options_fable.php:139
+msgid ""
+"Here you can designate how many recent articles are displayed on the Search "
+"results pages. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Aquí puedes indicar cuantas entradas quieres mostrar en la página de "
+"Busqueda. Esta opción es independiente de las opciones de Lectura de "
+"Wordpress."
+
+#: ../epanel/options_fable.php:143
+msgid "Number of Posts displayed on Tag pages"
+msgstr "Nº de entradas mostradas en la página de Etiquetas"
+
+#: ../epanel/options_fable.php:147
+msgid ""
+"Here you can designate how many recent articles are displayed on the Tag "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Aquí puedes indicar cuantas entradas quieres mostrar en la página de "
+"Etiquetas. Esta opción es independiente de las opciones de Lectura de "
+"Wordpress."
+
+#: ../epanel/options_fable.php:151
+msgid "Date format"
+msgstr "Formato de Fecha"
+
+#: ../epanel/options_fable.php:155
+msgid ""
+"This option allows you to change how your dates are displayed. For more "
+"information please refer to the WordPress codex here:<a href='http://codex."
+"wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and "
+"Time</a>"
+msgstr ""
+"Esta opción permite cambiar como son mostradas las fechas. Para mas "
+"información, consultar el codex de Wordpress:<a href='http://codex.wordpress."
+"org/Formatting_Date_and_Time' target='_blank'>Formatting Date and Time</a>"
+
+#: ../epanel/options_fable.php:161
+msgid "Use excerpts when defined"
+msgstr "Usar extractos cuando sean determinados"
+
+#: ../epanel/options_fable.php:165
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr "Habilita la posibilidad de usar extractos en entradas y páginas"
+
+#: ../epanel/options_fable.php:168
+msgid "Responsive shortcodes"
+msgstr "Shortcodes adaptables"
+
+#: ../epanel/options_fable.php:172
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr ""
+"Habilita esta opción para hacer que los shortcodes se adapten a diferentes "
+"tamaños de pantalla"
+
+#: ../epanel/options_fable.php:177
+msgid "Google Fonts subsets"
+msgstr "Subconjuntos de Google Fonts"
+
+#: ../epanel/options_fable.php:181
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr "Habilita el uso de Google Fonts en idiomas no anglosajones"
+
+#: ../epanel/options_fable.php:184
+msgid "Animate elements on scroll"
+msgstr "Animar elementos en el desplazamiento"
+
+#: ../epanel/options_fable.php:188
+msgid "This will enable animations that happen as you scroll the page."
+msgstr "Habilita las animaciones cuando te desplazas por la web"
+
+#: ../epanel/options_fable.php:193
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: ../epanel/options_fable.php:197
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+"Puedes añadir CSS personalizado para sobre-escribir o extender el estilo "
+"predeterminado del tema"
+
+#: ../epanel/options_fable.php:207
+msgid "Number of Posts displayed on Homepage"
+msgstr "Nº de entradas mostradas en Inicio"
+
+#: ../epanel/options_fable.php:211
+msgid ""
+"Here you can designate how many recent articles are displayed on homepage. "
+"This option works independently from the Settings > Reading options in wp-"
+"admin."
+msgstr ""
+"Aquí puedes indicar cuantas entradas quieres mostrar en la página de inicio. "
+"Esta opción es independiente de las opciones de Lectura de Wordpress."
+
+#: ../epanel/options_fable.php:248
+msgid "Exclude pages from the navigation bar"
+msgstr "Excluir páginas de la barra de navegación"
+
+#: ../epanel/options_fable.php:252
+msgid ""
+"Here you can choose to remove certain pages from the navigation menu. All "
+"pages marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Aquí puedes elegir que páginas quieres que aparezcan en el menú de "
+"navegación. Todas las páginas marcadas con una X no se mostrarán en la barra "
+"de navegación."
+
+#: ../epanel/options_fable.php:256 ../epanel/options_fable.php:311
+msgid "Show dropdown menus"
+msgstr "Mostrar menús desplegables"
+
+#: ../epanel/options_fable.php:260
+msgid ""
+"If you would like to remove the dropdown menus from the pages navigation bar "
+"disable this feature."
+msgstr ""
+"Si deseas eliminar los menús desplegables de la barra de navegación de las "
+"páginas, desactiva esta opción."
+
+#: ../epanel/options_fable.php:263
+msgid "Display Home link"
+msgstr "Mostrar enlace a la portada"
+
+#: ../epanel/options_fable.php:267
+msgid ""
+"By default the theme creates a Home link that, when clicked, leads back to "
+"your blog's homepage. If, however, you are using a static homepage and have "
+"already created a page called Home to use, this will result in a duplicate "
+"link. In this case you should disable this feature to remove the link."
+msgstr ""
+"Por defecto el tema crea un enlace a la Página Principal que, al hacer clic, "
+"lleva a la página principal de tu blog. Sin embargo, si estás utilizando una "
+"página estática y ya has creado una página llamada Inicio, esto se traducirá "
+"en un enlace duplicado. En este caso, debes desactivar esta función para "
+"eliminar el enlace."
+
+#: ../epanel/options_fable.php:272
+msgid "Sort Pages Links"
+msgstr "Enlaces a páginas cortas"
+
+#: ../epanel/options_fable.php:276
+msgid "Here you can choose to sort your pages links."
+msgstr "Aquí puedes elegir ordenar los enlaces de las páginas."
+
+#: ../epanel/options_fable.php:279
+msgid "Order Pages Links by Ascending/Descending"
+msgstr "Ordenar Ascendente / Descendente los Enlaces de Páginas"
+
+#: ../epanel/options_fable.php:283
+msgid ""
+"Here you can choose to reverse the order that your pages links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"Aquí puedes elegir revertir el orden en que se muestran los enlaces de las "
+"páginas. Puedes elegir entre ascendente y descendente."
+
+#: ../epanel/options_fable.php:286 ../epanel/options_fable.php:327
+msgid "Number of dropdown tiers shown"
+msgstr "Número de niveles en menús desplegables"
+
+#: ../epanel/options_fable.php:290 ../epanel/options_fable.php:331
+msgid ""
+"This options allows you to control how many teirs your pages dropdown menu "
+"has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+"Esta opción te permite controlar cuántos niveles tendrán los menús "
+"desplegables de las páginas. Incrementar el número te permite mostrar "
+"elementos de menú adicionales."
+
+#: ../epanel/options_fable.php:303
+msgid "Exclude categories from the navigation bar"
+msgstr "Excluir categorías de la barra de navegación"
+
+#: ../epanel/options_fable.php:307
+msgid ""
+"Here you can choose to remove certain categories from the navigation menu. "
+"All categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Aquí puedes elegir ciertas categorías que puedes excluir del menú de "
+"navegación. Todas las categorías marcadas con una X no se mostrarán en la "
+"barra de navegación."
+
+#: ../epanel/options_fable.php:315
+msgid ""
+"If you would like to remove the dropdown menus from the categories "
+"navigation bar disable this feature."
+msgstr ""
+"Si deseas eliminar los menús desplegables de la barra de navegación de las "
+"categorías, desactiva esta opción."
+
+#: ../epanel/options_fable.php:318
+msgid "Hide empty categories"
+msgstr "Ocultar categorías vacías"
+
+#: ../epanel/options_fable.php:322
+msgid ""
+"If you would like categories to be displayed in your navigationbar that "
+"don't have any posts in them then disable this option. By default empty "
+"categories are hidden"
+msgstr ""
+"Si deseas mostrar categorías sin entradas en la barra de navegación, "
+"desactiva esta opción. Por defecto, las categorías vacías están ocultas."
+
+#: ../epanel/options_fable.php:337
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr ""
+"Ordenar enlaces de categorías por Nombre/ID/slug/contador/grupo de términos"
+
+#: ../epanel/options_fable.php:341
+msgid ""
+"By default pages are sorted by name. However if you would rather have them "
+"sorted by ID you can adjust this setting."
+msgstr ""
+"Por defecto, las páginas se ordenan por nombre. Si deseas que se ordenen por "
+"ID, puedes seleccionar esta opción."
+
+#: ../epanel/options_fable.php:344
+msgid "Order Category Links by Ascending/Descending"
+msgstr "Ordenar los Enlaces de Categoría de forma Ascendente / Descendente"
+
+#: ../epanel/options_fable.php:348
+msgid ""
+"Here you can choose to reverse the order that your categories links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"Aquí puedes elegir revertir el orden en que se muestran los enlaces de las "
+"páginas. Puedes elegir entre ascendente y descendente."
+
+#: ../epanel/options_fable.php:357
+msgid "Disable top tier dropdown menu links"
+msgstr "Desactivar los enlaces del primer nivel de los menús desplegables"
+
+#: ../epanel/options_fable.php:361
+msgid ""
+"In some cases users will want to create parent categories or links as "
+"placeholders to hold a list of child links or categories. In this case it is "
+"not desirable to have the parent links lead anywhere, but instead merely "
+"serve an organizational function. Enabling this options will remove the "
+"links from all parent pages/categories so that they don't lead anywhere when "
+"clicked."
+msgstr ""
+"En algunos casos, los usuarios querrán crear categorías superiores o enlaces "
+"como marcadores de posición para mantener una lista de enlaces inferiores o "
+"categorías. En este caso no es deseable tener los vínculos superiores que no "
+"llevan a ningún lado, pues simplemente cumplen una función organizativa. "
+"Habilitar esta opción eliminará los enlaces de todas los páginas / "
+"categorías superiores que no llevan a ninguna parte cuando se hace clic."
+
+#: ../epanel/options_fable.php:381
+msgid "Single Post Layout"
+msgstr "Diseño de entrada individual"
+
+#: ../epanel/options_fable.php:386
+msgid "Single Page Layout"
+msgstr "Diseño de página individual"
+
+#: ../epanel/options_fable.php:399
+msgid "Choose which items to display in the postinfo section"
+msgstr ""
+"Elige qué elementos se mostrarán en la sección de información de la entrada"
+
+#: ../epanel/options_fable.php:403
+msgid ""
+"Here you can choose which items appear in the postinfo section on single "
+"post pages. This is the area, usually below the post title, which displays "
+"basic information about your post. The highlighted itmes shown below will "
+"appear. "
+msgstr ""
+"Aquí puedes elegir qué elementos aparecerán en la sección de información de "
+"las entradas. Esta es la zona, generalmente debajo del título, donde se "
+"muestra información básica sobre la página. Los elementos seleccionados se "
+"mostrarán debajo."
+
+#: ../epanel/options_fable.php:406
+msgid "Show Author Avatar and Share Buttons on Single Posts"
+msgstr "Muestra el avatar del autor y los botones de compartir en las entradas"
+
+#: ../epanel/options_fable.php:410
+msgid ""
+"Enable this option to show the post author avatar and share buttons on "
+"Single Posts."
+msgstr ""
+"Habilite esta opción para mostrar el avatar del autor del post y los botones "
+"de compartir en las entradas."
+
+#: ../epanel/options_fable.php:414
+msgid "Show comments on posts"
+msgstr "Mostrar comentarios en las entradas"
+
+#: ../epanel/options_fable.php:418
+msgid ""
+"You can disable this option if you want to remove the comments and comment "
+"form from single post pages. "
+msgstr ""
+"Puedes desactivar esta opción si desea eliminar los comentarios y el "
+"formulario de comentarios en las entradas."
+
+#: ../epanel/options_fable.php:429
+msgid "Show comments on pages"
+msgstr "Mostrar comentarios en páginas"
+
+#: ../epanel/options_fable.php:433
+msgid ""
+"By default comments are not placed on pages, however, if you would like to "
+"allow people to comment on your pages simply enable this option. "
+msgstr ""
+"Por defecto, los comentarios no se muestran en las páginas. Sin embargo, si "
+"deseas permitir comentarios en las páginas, activa esta opción."
+
+#: ../epanel/options_fable.php:444
+msgid "Post info section"
+msgstr "Sección de información de la entrada"
+
+#: ../epanel/options_fable.php:448
+msgid ""
+"Here you can choose which items appear in the postinfo section on pages. "
+"This is the area, usually below the post title, which displays basic "
+"information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+"Aquí se puede elegir los elementos que aparecerán en la sección de "
+"información de las páginas. Éste área, generalmente debajo del título de la "
+"entrada, que muestra información básica acerca de la entrada. Aparecerán los "
+"elementos resaltados que se muestran a continuación."
+
+#: ../epanel/options_fable.php:467
+msgid "Homepage SEO"
+msgstr "SEO de Página de Inicio"
+
+#: ../epanel/options_fable.php:472
+msgid "Single Post Page SEO"
+msgstr "SEO de Página de Post Individual"
+
+#: ../epanel/options_fable.php:477
+msgid "Index Page SEO"
+msgstr "SEO de Página de Índice"
+
+#: ../epanel/options_fable.php:485
+msgid " Enable custom title "
+msgstr "Habilitar título personalizado"
+
+#: ../epanel/options_fable.php:489
+msgid ""
+"By default the theme uses a combination of your blog name and your blog "
+"description, as defined when you created your blog, to create your homepage "
+"titles. However if you want to create a custom title then simply enable this "
+"option and fill in the custom title field below. "
+msgstr ""
+"Por defecto, para crear los títulos de la página de inicio, el tema usa una "
+"combinación del nombre del Sitio y la descripción, tal como se definen "
+"cuando se crea el sitio. Sin embargo, si deseas crear un título "
+"personalizado, activa esta opción y escribe el título personalizado en el "
+"campo que aparece debajo."
+
+#: ../epanel/options_fable.php:492
+msgid " Enable meta description"
+msgstr "Habilitar meta-descripción"
+
+#: ../epanel/options_fable.php:496
+msgid ""
+"By default the theme uses your blog description, as defined when you created "
+"your blog, to fill in the meta description field. If you would like to use a "
+"different description then enable this option and fill in the custom "
+"description field below. "
+msgstr ""
+"Por defecto, para llenar los campos de descripción meta el tema usa la "
+"descripción del blog, tal como se definió al instalarlo. Si deseas usar una "
+"descripción diferente, activa esta opción y llena el campo personalizado a "
+"continuación."
+
+#: ../epanel/options_fable.php:499
+msgid " Enable meta keywords"
+msgstr "Habilitar meta palabras clave"
+
+#: ../epanel/options_fable.php:503
+msgid ""
+"By default the theme does not add keywords to your header. Most search "
+"engines don't use keywords to rank your site anymore, but some people define "
+"them anyway just in case. If you want to add meta keywords to your header "
+"then enable this option and fill in the custom keywords field below. "
+msgstr ""
+"Por defecto, el tema no agrega palabras clave en la cabecera. La mayoría de "
+"los motores de búsqueda ya no usan palabras clave para valorar su sitio, "
+"pero algunas personas las incluyen de todas maneras. Si deseas agregar "
+"palabras clave meta en la cabecera, activa esta opción y escribe las "
+"palabras clave en el campo que aparece debajo."
+
+#: ../epanel/options_fable.php:506 ../epanel/options_fable.php:639
+msgid " Enable canonical URL's"
+msgstr "Activar URL’s canónicas"
+
+#: ../epanel/options_fable.php:510
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URLs all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treaded individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+"La Canonicalización ayuda a prevenir que los motores de búsqueda indexen "
+"contenido duplicado, evitando así, penalizaciones y degradaciones en el "
+"ranking. Algunas páginas puede tener diferentes URLs dirigiendose al mismo "
+"sitio. Por ejemplo: domain.com. domain.com/index.html y www.doamin.com son "
+"diferentes URLs dirigiendose todas a la página de inicio. Desde el punto de "
+"vista de un motor de busqueda, son URLs duplicadas, algo que suele ocurrir "
+"con los enlaces permanentes, que son tratados de forma individual en vez de "
+"un mismo destino. Definir una URL canónica dice al motor de búsqueda que URL "
+"vas a usar oficialmente. El tema basa sus URLs canónicas en base a los "
+"enlaces permanentes y el dominio definido en la página de opciones de tu "
+"Wordpress."
+
+#: ../epanel/options_fable.php:515
+msgid "Homepage custom title (if enabled)"
+msgstr "Título personalizado del Página Principal (si está habilitada)"
+
+#: ../epanel/options_fable.php:519
+msgid ""
+"If you have enabled custom titles you can add your custom title here. "
+"Whatever you type here will be placed between the < title >< /title > tags "
+"in header.php"
+msgstr ""
+"Si has activado los títulos personalizados puedes agregar el título aquí. El "
+"título que escribas aquí se mostrará entre las etiquetas <title></title>del "
+"archivo header.php"
+
+#: ../epanel/options_fable.php:523
+msgid "Homepage meta description (if enabled)"
+msgstr "Meta-descripción de la Página Principal (si está activado)"
+
+#: ../epanel/options_fable.php:527
+msgid ""
+"If you have enabled meta descriptions you can add your custom description "
+"here."
+msgstr ""
+"Si habilitaste las meta descripciones puedes añadir tu descripción "
+"personalizada aquí."
+
+#: ../epanel/options_fable.php:531
+msgid "Homepage meta keywords (if enabled)"
+msgstr "Palabras clave de la Página Principal (si está activado)"
+
+#: ../epanel/options_fable.php:535
+msgid ""
+"If you have enabled meta keywords you can add your custom keywords here. "
+"Keywords should be separated by comas. For example: wordpress,themes,"
+"templates,elegant"
+msgstr ""
+"Si has habilitado las meta palabras clave puedes añadir palabras clave "
+"personalizadas aquí. Las palabras clave deben ir separadas por comas. Por "
+"ejemplo: wordpress,themes,templates,elegant"
+
+#: ../epanel/options_fable.php:539 ../epanel/options_fable.php:617
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr ""
+"Si los títulos personalizados están desactivados, elige método de "
+"autogeneración"
+
+#: ../epanel/options_fable.php:544
+msgid ""
+"If you are not using cutsom post titles you can still have control over how "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Si no está utilizando títulos de entradas personalizados todavía puedes "
+"tener control sobre cómo se generan tus títulos . Aquí se puede elegir qué "
+"orden deseas para tu título de la entrada y el nombre del blog que se "
+"mostrarán , o puede quitar completamente el nombre del blog en el título."
+
+#: ../epanel/options_fable.php:547 ../epanel/options_fable.php:625
+#: ../epanel/options_fable.php:663
+msgid "Define a character to separate BlogName and Post title"
+msgstr ""
+"Defina un carácter para separar el nombre del sitio y el título de la "
+"publicación"
+
+#: ../epanel/options_fable.php:551 ../epanel/options_fable.php:629
+msgid ""
+"Here you can change which character separates your blog title and post name "
+"when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Aquí puede cambiar el carácter que separará el título del sitio web y el de "
+"la publicación cuando se utilice títulos autogenerados. Los valores más "
+"comunes son | o -"
+
+#: ../epanel/options_fable.php:561
+msgid "Enable custom titles"
+msgstr "Activar títulos personalizados"
+
+#: ../epanel/options_fable.php:565
+msgid ""
+"By default the theme creates post titles based on the title of your post and "
+"your blog name. If you would like to make your meta title different than "
+"your actual post title you can define a custom title for each post using "
+"custom fields. This option must be enabled for custom titles to work, and "
+"you must choose a custom field name for your title below."
+msgstr ""
+"Por defecto el tema crea títulos de entradas basados en el título de tus "
+"publicaciones y tu nombre del blog. Si usted desea hacer su meta título "
+"diferente al de su título de la entrada actual se puede definir un título "
+"personalizado para cada artículo usando campos personalizados. Esta opción "
+"debe ser habilitado para que funcione la opción títulos personalizados y "
+"debes elegir un nombre de campo personalizado para tu título a continuación."
+
+#: ../epanel/options_fable.php:568
+msgid "Enable custom description"
+msgstr "Activar descripciones personalizadas"
+
+#: ../epanel/options_fable.php:572
+msgid ""
+"If you would like to add a meta description to your post you can do so using "
+"custom fields. This option must be enabled for descriptions to be displayed "
+"on post pages. You can add your meta description using custom fields based "
+"off the custom field name you define below."
+msgstr ""
+"Si desea agregar una meta descripción a su artículo se puede hacer por medio "
+"de campos personalizados. Esta opción debe estar habilitada para las "
+"descripciones que se muestran en las páginas de las entradas. Puedes añadir "
+"tu meta descripción utilizando campos personalizados basados en el nombre de "
+"campo personalizado que se define a continuación."
+
+#: ../epanel/options_fable.php:577
+msgid "Enable custom keywords"
+msgstr "Activar palabras clave personalizadas"
+
+#: ../epanel/options_fable.php:581
+msgid ""
+"If you would like to add meta keywords to your post you can do so using "
+"custom fields. This option must be enabled for keywords to be displayed on "
+"post pages. You can add your meta keywords using custom fields based off the "
+"custom field name you define below."
+msgstr ""
+"Si desea añadir palabras clave meta a su artículo se puede hacer por medio "
+"de campos personalizados. Esta opción debe ser habilitada para palabras "
+"clave que se muestran en las páginas de las publicaciones. Usted puede "
+"añadir sus palabras clave meta utilizando campos personalizados basados en "
+"el nombre del campo personalizado que se define a continuación."
+
+#: ../epanel/options_fable.php:584
+msgid "Enable canonical URL's"
+msgstr "Activar URL’s canónicas"
+
+#: ../epanel/options_fable.php:588 ../epanel/options_fable.php:643
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URL's all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treaded individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+"La Canonicalización ayuda a prevenir que los motores de búsqueda indexen "
+"contenido duplicado, evitando así, penalizaciones y degradaciones en el "
+"ranking. Algunas páginas puede tener diferentes URLs dirigiendose al mismo "
+"sitio. Por ejemplo: domain.com. domain.com/index.html y www.doamin.com son "
+"diferentes URLs dirigiendose todas a la página de inicio. Desde el punto de "
+"vista de un motor de busqueda, son URLs duplicadas, algo que suele ocurrir "
+"con los enlaces permanentes, que son tratados de forma individual en vez de "
+"un mismo destino. Definir una URL canónica dice al motor de búsqueda que URL "
+"vas a usar oficialmente. El tema basa sus URLs canónicas en base a los "
+"enlaces permanentes y el dominio definido en la página de opciones de tu "
+"Wordpress."
+
+#: ../epanel/options_fable.php:593
+msgid "Custom field Name to be used for title"
+msgstr "Nombre del campo personalizado a utilizar para el título"
+
+#: ../epanel/options_fable.php:597
+msgid ""
+"When you define your title using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the custom "
+"title you would like to use."
+msgstr ""
+"Cuando se define el título usando campos personalizados, debe utilizar este "
+"valor para el campo personalizado. El Valor de su campo personalizado debe "
+"ser el título que quisieras utilizar ."
+
+#: ../epanel/options_fable.php:601
+msgid "Custom field Name to be used for description"
+msgstr "Campo personalizado para la descripción"
+
+#: ../epanel/options_fable.php:605
+msgid ""
+"When you define your meta description using custom fields you should use "
+"this value for the custom field Name. The Value of your custom field should "
+"be the custom description you would like to use."
+msgstr ""
+"Cuando se define la meta dexxcripción usando campos personalizados, debe "
+"utilizar este valor para el campo personalizado. El Valor de su campo "
+"personalizado debe ser el título que quisieras utilizar ."
+
+#: ../epanel/options_fable.php:609
+msgid "Custom field Name to be used for keywords"
+msgstr "Nombre del campo personalizado a utilizar para las palabras clave"
+
+#: ../epanel/options_fable.php:613
+msgid ""
+"When you define your keywords using custom fields you should use this value "
+"for the custom field Name. The Value of your custom field should be the meta "
+"keywords you would like to use, separated by comas."
+msgstr ""
+"Al definir las palabras clave usando campos personalizados. debe utilizar "
+"este valor para el campo personalizado. El Valor de su campo personalizado "
+"debe ser las palabras clave meta que le gustaría usar, separados por comas."
+
+#: ../epanel/options_fable.php:622
+msgid ""
+"If you are not using cutsom post titles you can still have control over hw "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Si no está utilizando títulos de entradas personalizadas, usted todavía "
+"puede tener control sobre como sus títulos son generados. Aquí se puede "
+"elegir qué orden desea que su título de la entrada y el nombre del blog que "
+"se mostrarán, o puede quitar completamente el nombre del blog en el título."
+
+#: ../epanel/options_fable.php:646
+msgid "Enable meta descriptions"
+msgstr "Habilitar meta descripciones."
+
+#: ../epanel/options_fable.php:650
+msgid ""
+"Check this box if you want to display meta descriptions on category/archive "
+"pages. The description is based off the category description you choose when "
+"creating/edit your category in wp-admin."
+msgstr ""
+"Marca esta casilla si desea mostrar las meta descripciones en las páginas de "
+"categorías/archivos. La descripción está basada en la descripción de la "
+"categoría que elige al crear/editar tu categoría en wp-admin."
+
+#: ../epanel/options_fable.php:655
+msgid "Choose title autogeneration method"
+msgstr "Elige método de autogeneración de título"
+
+#: ../epanel/options_fable.php:660
+msgid ""
+"Here you can choose how your titles on index pages are generated. You can "
+"change which order your blog name and index title are displayed, or you can "
+"remove the blog name from the title completely."
+msgstr ""
+"Aquí se puede elegir cómo se generan sus títulos en las páginas principales. "
+"Puede cambiar el orden en el que el nombre del blog y el título índice se "
+"muestran, o puede quitar completamente el nombre del blog en el título."
+
+#: ../epanel/options_fable.php:667
+msgid ""
+"Here you can change which character separates your blog title and index page "
+"name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Aquí puede cambiar el carácter que separa el título del blog y el índice de "
+"nombre de la página cuando se utiliza títulos autogenerados de entradas. Los "
+"valores comunes son | o -"
+
+#: ../epanel/options_fable.php:688
+msgid "Code Integration"
+msgstr "Código de integración"
+
+#: ../epanel/options_fable.php:696
+msgid "Enable header code"
+msgstr "Habilitar código de cabecera"
+
+#: ../epanel/options_fable.php:700
+msgid ""
+"Disabling this option will remove the header code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Al desactivar esta opción se eliminará el código de la cabecera por debajo "
+"de su blog . Esto le permite eliminar el código pero se guardará para su uso "
+"posterior ."
+
+#: ../epanel/options_fable.php:703
+msgid "Enable body code"
+msgstr "Habilitar código en el cuerpo"
+
+#: ../epanel/options_fable.php:707
+msgid ""
+"Disabling this option will remove the body code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Desactivando esta opción se eliminará el código que aparece en el cuerpo de "
+"las publicaciones. Esto le permite quitar el código guardándose para su uso "
+"posterior."
+
+#: ../epanel/options_fable.php:712
+msgid "Enable single top code"
+msgstr "Habilitar códidgo en el single top."
+
+#: ../epanel/options_fable.php:716
+msgid ""
+"Disabling this option will remove the single top code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+"Al desactivar esta opción se eliminará el código del single top de su blog . "
+"Esto le permite eliminar el código pero se guarda para su uso posterior ."
+
+#: ../epanel/options_fable.php:719
+msgid "Enable single bottom code"
+msgstr "Habilitar código al final"
+
+#: ../epanel/options_fable.php:723
+msgid ""
+"Disabling this option will remove the single bottom code below from your "
+"blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+"Al desactivar esta opción, se eliminará el código abajo al final de su blog. "
+"Esto le permite eliminar el código pero se guardará para su uso posterior."
+
+#: ../epanel/options_fable.php:728
+msgid "Add code to the < head > of your blog"
+msgstr "Agregue código al <head> de tu blog"
+
+#: ../epanel/options_fable.php:732
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+"Cualquier código que coloques aquí aparecerá en la sección de la cabecera de "
+"cada pagina de tu sitio. Esto es útil cuando necesitas añadir JavaScript o "
+"css a todas paginas"
+
+#: ../epanel/options_fable.php:735
+msgid ""
+"Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr ""
+"Agrega código a la sección <body> (bueno para los códigos de seguimiento, "
+"tales como Google Analytics)"
+
+#: ../epanel/options_fable.php:739
+msgid ""
+"Any code you place here will appear in body section of all pages of your "
+"blog. This is usefull if you need to input a tracking pixel for a state "
+"counter such as Google Analytics."
+msgstr ""
+"Cualquier código que coloques aquí aparecerá en la sección body de cada "
+"pagina de tu sitio. Esto es útil cuando necesitas añadir un punto de "
+"seguimiento de un contador de estado como Google Analystics."
+
+#: ../epanel/options_fable.php:742
+msgid "Add code to the top of your posts"
+msgstr "Añadir código en la parte superior de tus entradas"
+
+#: ../epanel/options_fable.php:746 ../epanel/options_fable.php:753
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Cualquier código que coloques aquí será puesto arriba de las entradas. Esto "
+"es util si buscas integrar cosas como marcadores sociales."
+
+#: ../epanel/options_fable.php:749
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr ""
+"Añadir código en la parte inferior de tus entradas, antes de los comentarios"
+
+#: ../epanel/options_fable.php:771
+msgid "Documentation"
+msgstr "Documentación"
+
+#: ../epanel/options_fable.php:797
+msgid "Manage Un-widgetized Advertisements"
+msgstr "Administrar anuncios sin \"widgetizar\""
+
+#: ../epanel/options_fable.php:805
+msgid "Enable Single Post 468x60 banner"
+msgstr "Activar anuncio 468x60 para entradas individuales"
+
+#: ../epanel/options_fable.php:809
+msgid ""
+"Enabling this option will display a 468x60 banner ad on the bottom of your "
+"post pages below the single post content. If enabled you must fill in the "
+"banner image and destination url below."
+msgstr ""
+"Al habilitar esta opción mostrará un anuncio de 468x60 en la parte inferior "
+"de sus páginas de entrada por debajo del contenido de la entrada individual. "
+"Si se activa debe indicar la imagen aunciante y la URL de destino."
+
+#: ../epanel/options_fable.php:814
+msgid "Input 468x60 advertisement banner image"
+msgstr "URL de la imagen del anuncio de 468x60"
+
+#: ../epanel/options_fable.php:818
+msgid "Here you can provide 468x60 banner image url"
+msgstr "Aquí puede proporcionar la imagen del anuncio de 468x60"
+
+#: ../epanel/options_fable.php:822
+msgid "Input 468x60 advertisement destination url"
+msgstr "URL de destino del anuncio de 468x60"
+
+#: ../epanel/options_fable.php:826
+msgid "Here you can provide 468x60 banner destination url"
+msgstr "Aquí puede proporcionar la URL de destino del anuncio de 468x60"
+
+#: ../epanel/options_fable.php:830
+msgid "Input 468x60 adsense code"
+msgstr "Introduce tu código de Google Adsense"
+
+#: ../epanel/options_fable.php:834
+msgid "Place your adsense code here."
+msgstr "Coloca aquí tu código de Google Adsense aquí."
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Captcha"
+msgstr "Captcha: "
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Fill"
+msgstr "Rellenar"
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "field"
+msgstr "campo"
+
+#: ../epanel/page_templates/page_templates.php:22
+msgid "Invalid email"
+msgstr "Correo Electrónico no válido"
+
+#: ../epanel/page_templates/page_templates.php:37
+msgid "ET Page Template Settings"
+msgstr "Ajustes de Plantilla de Página ET"
+
+#: ../epanel/page_templates/page_templates.php:64
+msgid ""
+"Additional settings appear here, when one of ET page templates is selected "
+"( Page Attributes -> Template )"
+msgstr ""
+"Aquí aparecen ajustes adicionales, cuando una de las plantillas de página "
+"está seleccionada (Atributos de página -> Plantilla)"
+
+#: ../epanel/page_templates/page_templates.php:69
+msgid "Full Width Page"
+msgstr "Página con ancho completo"
+
+#: ../epanel/page_templates/page_templates.php:74
+msgid "Regenerate captcha numbers"
+msgstr "Generar Números Captcha"
+
+#: ../epanel/page_templates/page_templates.php:78
+msgid "Email To:"
+msgstr "Enviar un e-mail a:"
+
+#: ../epanel/page_templates/page_templates.php:84
+msgid "Blog Style mode"
+msgstr "Modo Blog"
+
+#: ../epanel/page_templates/page_templates.php:89
+msgid "Hide Auto Thumbnail"
+msgstr "Ocultar Miniatura Automática"
+
+#: ../epanel/page_templates/page_templates.php:94
+msgid "Show Titles"
+msgstr "Mostrar Títulos"
+
+#: ../epanel/page_templates/page_templates.php:99
+msgid "Show Descriptions"
+msgstr "Mostrar Descripciones"
+
+#: ../epanel/page_templates/page_templates.php:104
+msgid "Detect Portrait Images"
+msgstr "Detectar Imagenes de Retrato"
+
+#: ../epanel/page_templates/page_templates.php:108
+msgid "Thumbnail Size:"
+msgstr "Tamaño de Miniatura:"
+
+#: ../epanel/page_templates/page_templates.php:109
+msgid "Small"
+msgstr "Pequeño"
+
+#: ../epanel/page_templates/page_templates.php:110
+msgid "Medium"
+msgstr "Mediano"
+
+#: ../epanel/page_templates/page_templates.php:111
+msgid "Large"
+msgstr "Grande"
+
+#: ../epanel/page_templates/page_templates.php:115
+#: ../epanel/page_templates/page_templates.php:120
+msgid "Number of posts per page:"
+msgstr "Número de artículos por Página:"
+
+#: ../epanel/page_templates/page_templates.php:125
+msgid "Select blog categories:"
+msgstr "Seleccionar categorías:"
+
+#: ../epanel/page_templates/page_templates.php:144
+msgid "Select gallery categories:"
+msgstr "Seleccionar categorías para la galería:"
+
+#: ../epanel/shortcodes/shortcodes.php:15
+msgid "Previous"
+msgstr "Anterior"
+
+#: ../epanel/shortcodes/shortcodes.php:15
+msgid "Next"
+msgstr "Siguiente"
+
+#: ../epanel/shortcodes/shortcodes.php:302
+msgid "Member Login"
+msgstr "Acceso a Miembros"
+
+#: ../epanel/shortcodes/shortcodes.php:305
+msgid "Username: "
+msgstr "Usuario"
+
+#: ../epanel/shortcodes/shortcodes.php:306
+msgid "Password: "
+msgstr "Contraseña"
+
+#: ../epanel/shortcodes/shortcodes.php:307
+msgid "Login"
+msgstr "Iniciar Sesión"
+
+#: ../epanel/shortcodes/shortcodes.php:343
+msgid "Add a Tooltip Text"
+msgstr "Añade un Texto de Sugerencia"
+
+#: ../epanel/shortcodes/shortcodes.php:365
+msgid "Click here to learn more"
+msgstr "Haz clic aquí para aprender más"
+
+#: ../epanel/shortcodes/shortcodes.php:973
+msgid "Caption"
+msgstr "Leyenda"
+
+#: ../epanel/shortcodes/shortcodes.php:974
+msgid "Caption goes here"
+msgstr "La Leyenda va aquí"
+
+#: ../epanel/shortcodes/shortcodes.php:975
+msgid "Caption title goes here"
+msgstr "El título de la Leyenda va aquí"
+
+#: ../epanel/shortcodes/shortcodes.php:979
+msgid "State"
+msgstr "Estado"
+
+#: ../epanel/shortcodes/shortcodes.php:981
+msgid "Select between expanded and closed state"
+msgstr "Seleccione entre estado expandido y cerrado"
+
+#: ../epanel/shortcodes/shortcodes.php:986
+#: ../epanel/shortcodes/shortcodes.php:1002
+#: ../epanel/shortcodes/shortcodes.php:1031
+#: ../epanel/shortcodes/shortcodes.php:1111
+msgid "Content"
+msgstr "Contenido"
+
+#: ../epanel/shortcodes/shortcodes.php:987
+#: ../epanel/shortcodes/shortcodes.php:1003
+#: ../epanel/shortcodes/shortcodes.php:1089
+#: ../epanel/shortcodes/shortcodes.php:1112
+msgid "Content goes here"
+msgstr "El contenido va aquí"
+
+#: ../epanel/shortcodes/shortcodes.php:988
+#: ../epanel/shortcodes/shortcodes.php:1004
+#: ../epanel/shortcodes/shortcodes.php:1033
+msgid "Content text or html"
+msgstr "Texto o HTML"
+
+#: ../epanel/shortcodes/shortcodes.php:995
+#: ../epanel/shortcodes/shortcodes.php:1017
+msgid "Type"
+msgstr "Tipo"
+
+#: ../epanel/shortcodes/shortcodes.php:997
+msgid "Type of the box"
+msgstr "Tipo de caja"
+
+#: ../epanel/shortcodes/shortcodes.php:1011
+msgid "Link"
+msgstr "Enlace"
+
+#: ../epanel/shortcodes/shortcodes.php:1013
+msgid "URL"
+msgstr "URL"
+
+#: ../epanel/shortcodes/shortcodes.php:1019
+msgid "Choose button type"
+msgstr "Elige el tipo de botón"
+
+#: ../epanel/shortcodes/shortcodes.php:1024
+msgid "Color"
+msgstr "Color"
+
+#: ../epanel/shortcodes/shortcodes.php:1026
+msgid "Choose button color"
+msgstr "Elige color del botón"
+
+#: ../epanel/shortcodes/shortcodes.php:1032
+msgid "Link text"
+msgstr "Texto del enlace"
+
+#: ../epanel/shortcodes/shortcodes.php:1037
+msgid "Icon"
+msgstr "Icono"
+
+#: ../epanel/shortcodes/shortcodes.php:1039
+msgid "Used for icon button type"
+msgstr "Usado para el tipo de ícono del botón"
+
+#: ../epanel/shortcodes/shortcodes.php:1044
+msgid "Open link in new window"
+msgstr "Abrir enlace en una ventana nueva"
+
+#: ../epanel/shortcodes/shortcodes.php:1046
+msgid "Select yes if the link should be opened in a new window"
+msgstr "Selecciona Si, si el vínculo debe abrirse en una ventana nueva"
+
+#: ../epanel/shortcodes/shortcodes.php:1054
+msgid "Slider Type"
+msgstr "Tipo de Slider"
+
+#: ../epanel/shortcodes/shortcodes.php:1056
+msgid "Select Slider Type here"
+msgstr "Selecciona el tipo de slider aquí"
+
+#: ../epanel/shortcodes/shortcodes.php:1061
+msgid "Effect"
+msgstr "Efecto"
+
+#: ../epanel/shortcodes/shortcodes.php:1063
+msgid "Select Animation Effect"
+msgstr "Selecciona el Efecto de Animación"
+
+#: ../epanel/shortcodes/shortcodes.php:1068
+msgid "Auto"
+msgstr "Autp"
+
+#: ../epanel/shortcodes/shortcodes.php:1070
+msgid "Choose yes if you want for automatic slider animation"
+msgstr "Elige Si, si quieres una animación automática del Slider"
+
+#: ../epanel/shortcodes/shortcodes.php:1075
+msgid "Auto Speed"
+msgstr "Velocidad Automática"
+
+#: ../epanel/shortcodes/shortcodes.php:1077
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr "Velocidad del Slider automática (solo si Auto esta activado)"
+
+#: ../epanel/shortcodes/shortcodes.php:1081
+msgid "Tab Text"
+msgstr "Pestaña de texto"
+
+#: ../epanel/shortcodes/shortcodes.php:1088
+msgid "Tab Content"
+msgstr "Pestaña de contenido"
+
+#: ../epanel/shortcodes/shortcodes.php:1090
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr ""
+"Pega la URL de la imagen aquí, si seleccionaste el tipo de Slider \"Imágenes"
+"\""
+
+#: ../epanel/shortcodes/shortcodes.php:1098
+msgid "Image Url"
+msgstr "URL de la imagen"
+
+#: ../epanel/shortcodes/shortcodes.php:1100
+msgid "Author Image URL"
+msgstr "URL de la Imagen del Autor"
+
+#: ../epanel/shortcodes/shortcodes.php:1104
+msgid "Use resizing"
+msgstr "Usa Redimensionar"
+
+#: ../epanel/shortcodes/shortcodes.php:1181
+msgid "+ Add One More Tab"
+msgstr "+Añadir Una Pestaña Más"
+
+#: ../epanel/shortcodes/shortcodes.php:1331
+msgid "Image Height"
+msgstr "largo de la imagen"
+
+#: ../epanel/shortcodes/shortcodes.php:1332
+msgid "Image Width"
+msgstr "ancho de la imagen"
+
+#: ../includes/breadcrumbs.php:9
+msgid "Posts Tagged "
+msgstr "Artículos etiquetados"
+
+#: ../includes/breadcrumbs.php:11 ../includes/breadcrumbs.php:13
+#: ../includes/breadcrumbs.php:15
+msgid "Posts made in"
+msgstr "Entradas en"
+
+#: ../includes/breadcrumbs.php:17
+msgid "Search results for"
+msgstr "Resultados de búsqueda para:"
+
+#: ../includes/breadcrumbs.php:52
+msgid "Posts by "
+msgstr "Entradas por"
+
+#: ../includes/breadcrumbs.php:61
+msgid "Search this site..."
+msgstr "Buscar en este sitio..."
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; entradas anteriores"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Entradas siguientes &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Sin Resultados"
+
+#: ../includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+"La página solicitada no se encuentra. Trata de redefinir la búsqueda o "
+"utiliza la navegación para localizar la entrada."
+
+#: ../includes/share.php:17
+msgid "Share On Google"
+msgstr "Compartir en Google+"
+
+#: ../includes/share.php:24
+msgid "Share On Facebook"
+msgstr "Compartir en Facebook"
+
+#: ../includes/share.php:30
+msgid "Share On Twitter"
+msgstr "Compartir en Twitter"
+
+#: ../includes/functions/comments.php:15
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: ../includes/functions/comments.php:18
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: ../includes/functions/comments.php:22
+msgid "Post a Reply"
+msgstr "Publica una respuesta"
+
+#: ../includes/functions/comments.php:34
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación"
+
+#: ../includes/functions/installation.php:1
+msgid "Read Fable Documentation"
+msgstr "Leer documentación del tema Fable"
